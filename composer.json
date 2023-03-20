@@ -1,7 +1,11 @@
 {
     "name": "buddiedj/laravel-oxxa",
     "description": "Oxxa API Laravel Package",
-
+    "autoload": {
+        "psr-4": {
+            "Buddiedj\\LaravelOxxa\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "BuddieDJ"
