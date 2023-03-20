@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'buddiedj/laravel-oxxa',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '83d6bb863852f7db8f330d16be9e30947fe7b216',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'buddiedj/laravel-oxxa' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '83d6bb863852f7db8f330d16be9e30947fe7b216',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
