@@ -1,10 +1,9 @@
 <?php
 
-namespace App\Integrations\Functions;
+namespace BuddieDJ\Oxxa\Functions;
 
-use App\Integrations\Exceptions\OxxaApiException;
-use App\Integrations\Helper\CartType;
-use App\Integrations\Oxxa;
+use BuddieDJ\Oxxa\Exceptions\OxxaApiException;
+use BuddieDJ\Oxxa\Oxxa;
 
 class Cart extends Oxxa
 {

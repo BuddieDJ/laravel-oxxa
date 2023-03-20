@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Integrations\Functions;
+namespace BuddieDJ\Oxxa\Functions;
 
-use App\Integrations\Oxxa;
+use BuddieDJ\Oxxa\Oxxa;
 use Illuminate\Support\Facades\Date;
 
 class Fund extends Oxxa

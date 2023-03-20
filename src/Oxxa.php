@@ -1,11 +1,11 @@
 <?php
 
-namespace App\Integrations;
+namespace BuddieDJ\Oxxa;
 
-use App\Integrations\Functions\Cart;
-use App\Integrations\Functions\DnsRecord;
-use App\Integrations\Functions\Domain;
-use App\Integrations\Functions\Fund;
+use BuddieDJ\Oxxa\Functions\Cart;
+use BuddieDJ\Oxxa\Functions\DnsRecord;
+use BuddieDJ\Oxxa\Functions\Domain;
+use BuddieDJ\Oxxa\Functions\Fund;
 use GuzzleHttp\Client;
 
 class Oxxa

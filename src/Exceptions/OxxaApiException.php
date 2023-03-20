@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace App\Integrations\Exceptions;
+namespace BuddieDJ\Oxxa\Exceptions;
 
 use Exception;
 

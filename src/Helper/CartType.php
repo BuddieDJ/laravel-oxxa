@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Integrations\Helper;
+namespace BuddieDJ\Oxxa\Helper;
 
 enum CartType: string
 {
